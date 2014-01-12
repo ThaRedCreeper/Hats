@@ -1,0 +1,195 @@
+hats.firstJoin.hatHunting=[Hats] El servidor está en modo de caza de sombreros! Mata a un mob con sombrero para desbloquearlo!
+hats.firstJoin.kingOfTheHat.hasKing=[Hats] El servidor esta en modo de Rey del Sombrero! Mata al rey y quitale el derecho de usar un sombrero!
+hats.firstJoin.timeActive=[Hats] El servidor está en modo de Tiempo Activo! Mantente activo en el servidor para desbloquear sombreros!
+hats.kingOfTheHat.update.playerJoin=[Hats] Regocíjense! %s es el nuevo Rey!
+hats.kingOfTheHat.update.playerDied=[Hats] %1$s murió! %2$s es el nuevo Rey!
+hats.kingOfTheHat.update.playerSlayed=[Hats] %1$s ha sido asesinado! %2$s es el nuevo Rey!
+hats.kingOfTheHat.update.playerLeft=[Hats] %1$s abandonó el servidor! %2$s es el nuevo Rey!
+hats.kingOfTheHat.notKing=[Hats] Tu no eres el Rey, %s lo es! No puedes usar un sombrero!
+hats.lockedMode=[Hats] El servidor está en modo bloqueado! No se te permite intercambiar sombreros!
+hats.trade.tradeWith=Intercambiando con %s
+hats.trade.yourHats=Tus sombreros
+hats.trade.yourInventory=Tu inventario
+hats.trade.yourOfferings=Tus ofertas:
+hats.trade.theirOfferings=Ofertas de %s:
+hats.trade.waitingForOffer=Esperando que alguien haga una oferta.
+hats.trade.tradeNotReady=No está listo para intercambiar.
+hats.trade.tradeReady=Listo para intercambiar.
+hats.trade.makeTrade=Hacer intercambio
+hats.trade.waitingForReady=Esperando que ambas partes estén listas.
+hats.trade.bothReady=Ambas partes estan listas para intercambiar.
+hats.trade.cancelTrade=Cancelar el intercambio
+hats.trade.waitingForYou=Esperando tu confirmación
+hats.trade.waitingForThem=Esperando la confirmación del otro partido
+hats.trade.you=Tu
+hats.trade.added=añadido
+hats.trade.removed=eliminado
+hats.trade.ready=Tu estás listo
+hats.trade.readyThem=%s está listo
+hats.trade.notReady=No estás listo
+hats.trade.notReadyThem=%s no está listo
+hats.trade.selectTrader=Seleccionar con que jugador comerciar
+hats.trade.newTradeRequest=Nueva Solicitúd de Comercio
+hats.trade.tradeRequestDesc=Golpea a %s para mas detalles
+hats.trade=Intercambiar con jugadores cercanos
+hats.trade.acceptRequestGeneral=Aceptar Intercambio
+hats.trade.acceptRequestSpecific=Aceprar el Intercambio de %1$s (%2$s)
+hats.trade.cannotFindTrader=[Hats] No se puede negociar! %s no es visto!
+hats.trade.cannotAcceptTrade=[Hats] No se puede aceptar el intercambio! La solicitud es inválida!
+hats.trade.terminatePrefix=Se ha cancelado el intercambio
+hats.trade.terminate1=%s murió.
+hats.trade.terminate2=Tu y %s se alejaron demasiado uno del otro!
+hats.trade.terminate3=Algo bloquea tu camino!
+hats.trade.terminate4=%s dió por terminado el intercambio.
+hats.trade.terminate5=%s está en otra dimensión.
+hats.trade.success=[Hats] El intercambio tuvo éxito.
+hats.command= Comandos de Hats
+hats.command.help=escribe /hats para una lista completa.
+hats.command.help.send=/hats send <jugador> <nombre del sombrero>  Envía un sombrero a un jugador.
+hats.command.help.set=/hats set <jugador> <nombre del sombrero>   Establecer un sombrero a un jugador.
+hats.command.help.unlock=/hats unlock <jugador> <nombre del sombrero>   Desbloquea un sombrero a un jugador.
+hats.command.notOnline=%s no está conectado!
+hats.command.hatDoesNotExist=%s no existe!
+hats.command.serverDisabledHatSending=El servidor deshabilitó el envío de sombreros!
+hats.command.sendToPlayer=Enviando %1$s a %2$s
+hats.command.setPlayerHat=Estableciendo %1$s en %2$s
+hats.command.playerIsInCreative=%s está en creativo!
+hats.command.unlockHatForPlayer=Desbloqueando %1$s para %2$s
+hats.command.adminNotify.unlockHatForPlayer=%1$s desbloqueó %2$s para %3$s
+hats.command.serverIsNotOnHatHuntingMode=El servidor está en modo de caza de sombreros!
+hats.serverOnCommandGiverMode=El servidor tiene Hats configurado en modo Dador de Comandos. No puede dar comandos!
+hats.hatUnlocked=Sombrero desbloqueado!
+hats.gui.search=Buscar
+hats.gui.allHats=Todos los sombreros
+hats.gui.addNew=Añadir Nuevo
+hats.gui.firstPerson=Primera Persona
+hats.gui.showHats=Mostrar sombreros
+hats.gui.contributors=Contribuidores
+hats.gui.category=Categoría
+hats.gui.categories=Categorías
+hats.gui.colorizer=Colorizador
+hats.gui.hatsList=Lista de Sombreros
+hats.gui.resetSide=Restablecer Aspecto?
+hats.gui.randomobs=RandoMobs
+hats.gui.personalize=Personalizar
+hats.gui.viewing=Vista
+hats.gui.discardChanges=Descartar Cambios?
+hats.gui.removeHat=Remover Sombrero
+hats.gui.randomHat=Sombrero Aleatorio
+hats.gui.randomCategory=Categoría Aleatoria
+hats.gui.randomColor=Color Aleatorio
+hats.gui.resetColor=Resstablecer Color
+hats.gui.reloadAllHats=Recargar todos los sombreros?
+hats.gui.discardAllChanges=Esto descartará todos los cambios.
+hats.gui.favorites=Favoritos
+hats.gui.invalidName=Nombre Inválido!
+hats.gui.addCategory=Añadír Categoría
+hats.gui.addToCategory=Añadir a la categoría
+hats.gui.removeFromCategory=Remover de la categoría
+hats.gui.areYouSure=Estás seguro?
+hats.gui.clickConfirm=Vuelve a hacer click para confirmar
+hats.gui.deleteCategory=Borrar categoría
+hats.gui.deleteCategory.desc1=Esto removerá todos los sombreros
+hats.gui.deleteCategory.desc2=en esta categoría y volverá a cargar
+hats.gui.deleteCategory.desc3=la GUI.
+hats.gui.doubleClickConfirm=Doble click para confirmar
+hats.gui.disableHat=Deshabilitar ?
+hats.gui.disableHat.desc1=Esto deshabilitará el sombrero de
+hats.gui.disableHat.desc2=todas las categorías y volverá a cargar
+hats.gui.disableHat.desc3=la GUI. Esto no
+hats.gui.disableHat.desc4=borrará el archivo.
+hats.gui.deleteHat=Borrar Sombrero?
+hats.gui.deleteHat.desc1=Esto removerá este sombrero de
+hats.gui.deleteHat.desc2=todas las categorias y volverá a cargar
+hats.gui.deleteHat.desc3=la GUI.
+hats.gui.renameCategory=Renombrar Categoría?
+hats.gui.renameCategory.desc1=Esto volverá a cargar la GUI!
+hats.gui.removeFromFavorites=Remover de Favoritos
+hats.gui.addToFavorites=Añadír a Favoritos
+hats.gui.resetButtonsOnSide=Restablecer los botones al lado de la GUI?
+
+hats.gui.helpInfo1.desc1=Shift y click en el botón
+hats.gui.helpInfo1.desc2=del sombrero para mas opciones!
+hats.gui.helpInfo1.desc3=Sin embargo,
+hats.gui.helpInfo1.desc4=no puedes hacer shift y click en
+hats.gui.helpInfo1.desc5=el sombrero que estés usando.
+
+hats.gui.helpInfo2.desc1=Si estás en un servidor que no tiene
+hats.gui.helpInfo2.desc2=el mod, otro jugador con el
+hats.gui.helpInfo2.desc3=mod no podrá ver tu sombrero.
+
+hats.gui.helpInfo3.desc1=Sabías que siempre puedes tener mas sombreros?
+hats.gui.helpInfo3.desc2=Techne Online tiene un montón
+hats.gui.helpInfo3.desc3=de sombreros hechos por la comunidad
+hats.gui.helpInfo3.desc4=que puedes descargar e instalar.
+
+hats.gui.helpInfo4.desc1=También puedes hacer tu propio sombrero!
+hats.gui.helpInfo4.desc2=Necesitas Techne para hacer.
+hats.gui.helpInfo4.desc3=Un modelo de "Cabeza" es puesto en medio
+hats.gui.helpInfo4.desc4=del bloque de madera. Su tamaño es
+hats.gui.helpInfo4.desc5=8 x 8 x 8. Haz tu propio sombrero en el!
+
+hats.gui.helpInfo5.desc1=Sabías que puedes hacer tus propias categorías?
+hats.gui.helpInfo5.desc2=Aprieta el boton de Categorías (o "C" en tu teclado)
+hats.gui.helpInfo5.desc3=Y presiona el boton de "Añadir Nuevo".
+
+hats.gui.helpInfo6.desc1=Si tu amigo no tiene el sombrero
+hats.gui.helpInfo6.desc2=que llevas puesto, puedes enviar el
+hats.gui.helpInfo6.desc3=sombrero al servidor y este se lo envía a tu amigo.
+hats.gui.helpInfo6.desc4=(Solo en servidores con el mod)
+
+hats.gui.helpInfo7.desc1=Shift y click en el botón de Sombrero Aleatorio
+hats.gui.helpInfo7.desc2=te dá un sombrero Y color aleatorio!
+
+hats.gui.helpInfo8.desc1=Shift y click en el botón de Color Aleatorio restablece
+hats.gui.helpInfo8.desc2=todos los colores.
+
+hats.gui.helpInfo9.desc1=Puedes pulsar TAB o T para seleccionar rápidamente
+hats.gui.helpInfo9.desc2=la barra de búsqueda.
+
+hats.gui.helpInfo10.desc1=¿Sabía usted que este mod fue inicialmente
+hats.gui.helpInfo10.desc2=hecho para una maratón de modding de 96 horas
+hats.gui.helpInfo10.desc3=llamada ModJam?
+hats.gui.helpInfo10.desc4=Ganó el segundo puesto y fue hecho y es
+hats.gui.helpInfo10.desc5=actualmente mantenido por Ichun.
+
+hats.gui.helpInfo11.desc1=Los sombreros de jugadores agregados en el mod 
+hats.gui.helpInfo11.desc2=son los nombres de algunas personas que hicieron
+hats.gui.helpInfo11.desc3=una significativa contribución al mod, 
+hats.gui.helpInfo11.desc4=en términos de desarrollo, pruebas, contribución de modelos
+hats.gui.helpInfo11.desc5=y apoyo.
+hats.gui.helpInfo11.desc6=Sin embargo, Direwolf20 es sólo un extra.
+
+hats.gui.helpInfo12.desc1=Hacer Shift y Click en la lista de sombreros
+hats.gui.helpInfo12.desc2=te llevará de vuelta a  todos
+hats.gui.helpInfo12.desc3=los sombreros.
+
+hats.gui.helpInfo13.desc1=Puedes hacer click derecho en la barra de Busqueda
+hats.gui.helpInfo13.desc2=para limpiarla.
+
+hats.gui.helpInfo14.desc1=Puedes desabilitar sombreros en lugar de
+hats.gui.helpInfo14.desc2=borrarlos. Solo mantén shift mientras los eliminas.
+
+hats.gui.helpInfo15.desc1=Apretando Shift-F añadirá
+hats.gui.helpInfo15.desc2=o quitara el sombrero que lleves
+hats.gui.helpInfo15.desc3=de la lista de favoritos.
+
+hats.gui.helpInfo16.desc1=La tecla para "Personalizar" es
+hats.gui.helpInfo16.desc2="P"
+hats.gui.helpInfo16.desc3=en caso de que hallas desabilitado
+hats.gui.helpInfo16.desc4=accidentalmente el boton.
+
+hats.gui.helpInfo17.desc1=Si tienes un sombrero de contribuyente,
+hats.gui.helpInfo17.desc2=puedes utilizarlo en modo
+hats.gui.helpInfo17.desc3=de Caza de Sombreros.
+
+hats.gui.helpInfo18.desc1=La (C) en el nombre del sombrero
+hats.gui.helpInfo18.desc2=representa un sombrero añadido 
+hats.gui.helpInfo18.desc3=por una donación hacia el mod!
+
+hats.gui.helpInfo19.desc1=Sabías que puedes customizar
+hats.gui.helpInfo19.desc2=si los mobs tienen sombreros? 
+hats.gui.helpInfo19.desc3=Está en la pestaña "Personalizar"
+
+hats.addon.hatstands.gui.base=Base
+hats.addon.hatstands.gui.stand=Perchero
